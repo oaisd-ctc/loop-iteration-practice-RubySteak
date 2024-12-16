@@ -236,7 +236,7 @@ public class Program
         }
     }
 
-    public static void FindSumOfOddNumbers(int n) // uuuuuuuuuhhhhhhhhh nothing to see here :3
+    public static void FindSumOfOddNumbers(int n) // help
     {
         int x = n;
         int sum = 0;
